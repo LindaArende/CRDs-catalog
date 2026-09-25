@@ -11,6 +11,9 @@
         "name": {
           "maxLength": 63,
           "type": "string"
+        },
+        "namespace": {
+          "type": "string"
         }
       },
       "type": "object",
